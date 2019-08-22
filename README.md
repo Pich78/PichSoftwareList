@@ -13,3 +13,5 @@ List of useful softwares and software projects
 
 ## Software Tools
 - [Apache Tika](https://tika.apache.org/) - Toolkit that detects and extracts metadata and text from over a thousand different file types.
+- [Docfetcher](https://github.com/vivainio/docfetcher) - Desktop search application written in Java using Lucene and Tika
+
